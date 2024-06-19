@@ -1,0 +1,49 @@
+body {
+    font-family: 'Almarai', sans-serif;
+}
+
+.bg-primary {
+    background-color: #0438df !important;
+    color: white;
+}
+
+.bg-secondary {
+    background-color: #07adf4 !important;
+    color: white;
+}
+
+#header {
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 80%);
+    border-bottom: solid 20px #11adf4;
+}
+
+#header-background {
+    background-image: url("/static/img/pattern.svg");
+}
+
+#logo-header {
+    position: absolute;
+    z-index: 999;
+    left: 100px;
+    top: 60px;
+}
+
+#logo-img {
+    -webkit-filter: drop-shadow(5px 5px 50px #222);
+    filter: drop-shadow(5px 5px 30px #222);
+}
+
+#header-border {
+    height: 200px;
+    background: #07adf4;
+    position: relative;
+    top: -203px;
+    z-index: -9;
+}
+
+
+/* EDIT CDN*/
+
+.p-5 {
+    padding: 1rem !important;
+}
