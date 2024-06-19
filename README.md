@@ -6,7 +6,7 @@ This project is perfect for those who want to learn how to use simple Flask code
 
 - Get your Football Data API key from [football-data.org](https://www.football-data.org/documentation/quickstart).
 
-![EURO LOGO](screenshot.png)
+![EURO LOGO](snapshot.png)
 
 1. **Clone the Repository:**
 ```
