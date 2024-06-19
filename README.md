@@ -1,12 +1,12 @@
 ![EURO LOGO](Starting%20Template/static/img/logo-right.svg)
 # Live Scoreboard 
 
+![EURO LOGO](snapshot.png)
+
 All Euro '24 live scores, final results, fixtures and standings! This flask application fetches real-time football data using an API. 
 This project is perfect for those who want to learn how to use simple Flask code to create a dynamic webpage with data fetched from an external API.
 
 - Get your Football Data API key from [football-data.org](https://www.football-data.org/documentation/quickstart).
-
-![EURO LOGO](snapshot.png)
 
 1. **Clone the Repository:**
 ```
