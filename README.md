@@ -1,4 +1,5 @@
-![EURO LOGO](Starting%20Template/static/img/logo-right.svg)
+[![VIDEO](https://img.youtube.com/vi/NTIJ2T9p97o/0.jpg)](https://www.youtube.com/watch?v=NTIJ2T9p97o)
+
 # Live Scoreboard 
 
 ![EURO LOGO](snapshot.png)
